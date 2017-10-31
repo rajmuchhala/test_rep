@@ -1,2 +1,1 @@
-import tensorflow as tf
-print("Hello tensorflow is installed and ready to go")
+print("Hello tensorflow is not installed and python is ready to go")
